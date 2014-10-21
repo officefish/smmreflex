@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Flare3D_2.7.1_Trial" type="flex">
+    <CLASSES>
+      <root url="jar:///www/actionscript/Flare3D_2.7.1_Trial.swc!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar:///www/actionscript/Flare3D_2.7.1_Trial.swc!/docs" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

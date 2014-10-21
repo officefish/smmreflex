@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="framework" type="flex">
+    <CLASSES>
+      <root url="jar:///opt/flexsdk_4.6/frameworks/libs/framework.swc!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

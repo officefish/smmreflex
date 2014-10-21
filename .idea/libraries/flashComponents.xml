@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="flashComponents" type="flex">
+    <CLASSES>
+      <root url="jar:///www/actionscript/flashComponents.swc!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

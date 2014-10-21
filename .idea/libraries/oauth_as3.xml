@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="oauth-as3" type="flex">
+    <CLASSES>
+      <root url="jar:///www/actionscript/oauth-as3.swc!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
